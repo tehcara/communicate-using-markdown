@@ -17,3 +17,11 @@ Here is some Python, formatted in a code block.
 ```
 print('Hello, World!')
 ```
+
+## Task Lists
+
+Now, I will add a task list to this file.
+
+- [x] Learn how to create files and branches.
+- [x] Learn how to use some markdown.
+- [ ] Explore more of Github.
